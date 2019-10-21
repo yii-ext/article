@@ -1,0 +1,21 @@
+{
+    "name": "yiiapps/article",
+    "description": "yii的文章扩展",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","文章"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tbq",
+            "email": "tbq2616@sina.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yiiapps\\article\\": ""
+        }
+    }
+}
