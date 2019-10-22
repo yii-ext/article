@@ -1,6 +1,6 @@
 <?php
 
-namespace yiiapps\article;
+namespace yiiexttbq\article;
 
 /**
  * This is just an example.
