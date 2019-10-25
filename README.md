@@ -10,13 +10,13 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist yiiapps/article "*"
+php composer.phar require --prefer-dist yiiexttbq/article "*"
 ```
 
 or add
 
 ```
-"yiiapps/article": "*"
+"yiiexttbq/article": "*"
 ```
 
 to the require section of your `composer.json` file.
@@ -28,4 +28,4 @@ Usage
 Once the extension is installed, simply use it in your code by  :
 
 ```php
-<?= \yiiapps\article\AutoloadExample::widget(); ?>```
+<?= \yiiexttbq\article\AutoloadExample::widget(); ?>```
